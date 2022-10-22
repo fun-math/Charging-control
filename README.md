@@ -8,7 +8,7 @@ Clone the repo and add the file _battery.sh_ to _Startup Applications_. Install 
 
 `sudo apt install acpi`\
 `sudo apt install sox`\
-`sudo apt install libsox-fmt-all`\
+`sudo apt install libsox-fmt-all`
 
 ## References
 
